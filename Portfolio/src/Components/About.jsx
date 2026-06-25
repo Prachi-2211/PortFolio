@@ -59,7 +59,7 @@ export function About() {
         <div className="block">
           <h3>Current Learning</h3>
           <p>
-            Full Stack Development training at Elight Forum with focus on React,
+            Full Stack Development training at Elite Forums with focus on React,
             Node.js, Express, MongoDB, and real-world project building.
           </p>
         </div>
