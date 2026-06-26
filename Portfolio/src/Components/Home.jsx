@@ -54,7 +54,7 @@ export function Home() {
 
             <div className="card">
               <h3> Full Stack Training</h3>
-              <p>Learning React, Node.js, Express from Elight Forum.</p>
+              <p>Learning React, Node.js, Express from Elite Forums.</p>
             </div>
 
             <div className="card">
