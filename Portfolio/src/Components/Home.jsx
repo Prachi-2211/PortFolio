@@ -13,7 +13,7 @@ export function Home() {
 
           {/* TAG */}
           <span className="tag">
-            STUDENT DEVELOPER • FULL STACK • CLOUD & BIG DATA
+            STUDENT DEVELOPER • FULL STACK • CLOUD COMPUTING & BIG DATA
           </span>
 
           {/* TITLE */}
